@@ -1,5 +1,5 @@
 {
-  "name": "acs-psi-report",
+  "name": "mcp-psi-report",
   "version": "1.0.0",
   "description": "MCP to generate a report of the psi values for a given website",
   "keywords": ["psi", "report", "web vitals", "performance", "lighthouse", "web performance", "LCP", "FID", "CLS", "TTFB", "Total Blocking Time"],
